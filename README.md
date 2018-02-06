@@ -1,3 +1,4 @@
+# fibo
 
 Fibo é um pequeno programa que gera números de Fibonacci.
 
